@@ -28,7 +28,7 @@ export default function About() {
           >
             <div className="relative w-64 h-72 md:w-80 md:h-96 overflow-hidden rounded-xl border-4 border-primary/20">
               <Image
-                src="/images/profile-new.jpg"
+                src="public/images/profile-new.jpg"
                 alt="Tamutswa Matondo"
                 fill
                 className="object-cover object-center"
