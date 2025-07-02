@@ -33,13 +33,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "Developer Portfolio",
+    title: "🏡 ModernAcres",
     description:
-      "A modern, responsive developer portfolio built with Next.js and Tailwind CSS featuring smooth animations and a dark theme.",
+      "ModernAcres is a modern real estate app prototype that helps home seekers discover and connect with verified property owners and listings — combining trust, style, and simplicity in one seamless platform.",
     image: "/placeholder.svg?height=400&width=600",
-    tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
+    tags: ["React", "Tailwind CSS", "Node.js","Figma","Firebase"],
     liveUrl: "https://tamutswa.dev",
-    githubUrl: "https://github.com/tamutswa/portfolio",
+    githubUrl: "https://github.com/tamutswa/Modern_Acres.App",
     featured: false,
   },
   {
