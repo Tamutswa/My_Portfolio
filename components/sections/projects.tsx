@@ -49,7 +49,7 @@ const projects = [
       "A modern, responsive developer portfolio built with Next.js and Tailwind CSS featuring smooth animations and a dark theme.",
     image: "/placeholder.svg?height=400&width=600",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    liveUrl: "https://github.com/Tamutswa/My_Portfolio",
+    liveUrl: "https://tamutswaportfolioo.vercel.app",
     githubUrl: "https://github.com/Tamutswa/My_Portfolio",
     featured: true,
   },
