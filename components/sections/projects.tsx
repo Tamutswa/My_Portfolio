@@ -36,11 +36,11 @@ const projects = [
     title: "🏡 ModernAcres",
     description:
       "ModernAcres is a modern real estate app prototype that helps home seekers discover and connect with verified property owners and listings — combining trust, style, and simplicity in one seamless platform.",
-    image:"https://github.com/Tamutswa/My_Portfolio/public/images/coastal-estate.jpg",
+    image:"/images/coastal-estate.jpg",
     tags: ["React", "Tailwind CSS", "Node.js","Figma","Firebase"],
     liveUrl: "https://github.com/Tamutswa/Modern_Acres.App",
     githubUrl: "https://github.com/Tamutswa/Modern_Acres.App",
-    featured: false,
+    featured: true,
   },
   {
     id: 4,
