@@ -101,7 +101,7 @@ export default function Projects() {
             >
               <Card className="bg-gray-900/50 border-gray-800 overflow-hidden h-full flex flex-col hover:border-primary/50 transition-all duration-300">
                 <div className="relative overflow-hidden h-56">
-                  {project.id === 1 || project.id === 2 ? (
+                  {project.id === 1 || project.id === 2 || project.id === 3 ? (
                     <Image
                       src={project.image || "/placeholder.svg"}
                       alt={project.title}
