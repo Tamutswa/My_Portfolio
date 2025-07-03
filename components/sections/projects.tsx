@@ -44,14 +44,14 @@ const projects = [
   },
   {
     id: 4,
-    title: "E-commerce Dashboard",
+    title: "Developer Portfolio",
     description:
-      "A comprehensive dashboard for e-commerce businesses to track sales, inventory, and customer analytics with real-time data visualization.",
+      "A modern, responsive developer portfolio built with Next.js and Tailwind CSS featuring smooth animations and a dark theme.",
     image: "/placeholder.svg?height=400&width=600",
-    tags: ["React", "Redux", "D3.js", "Firebase"],
-    liveUrl: "https://dashboard.example.com",
-    githubUrl: "https://github.com/tamutswa/ecommerce-dashboard",
-    featured: false,
+    tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
+    liveUrl: "https://github.com/Tamutswa/My_Portfolio",
+    githubUrl: "https://github.com/Tamutswa/My_Portfolio",
+    featured: true,
   },
 ]
 
