@@ -4,7 +4,6 @@ import { motion } from "framer-motion"
 import { Briefcase, GraduationCap, FileText, FileSearch, Clock } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import DeveloperTimeline from "@/components/developer-timeline"
 
 const experiences = [
   {
