@@ -133,8 +133,7 @@ export default function Resume() {
               <Clock className="h-6 w-6 mr-2 text-primary" />
               My Developer Timeline
             </h3>
-
-            <DeveloperTimeline />
+            
           </motion.div>
         </div>
       </div>
