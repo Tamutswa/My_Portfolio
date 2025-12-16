@@ -128,11 +128,6 @@ export default function Resume() {
                 </Card>
               ))}
             </div>
-
-            <h3 className="text-2xl font-bold mt-12 mb-6 flex items-center">
-              <Clock className="h-6 w-6 mr-2 text-primary" />
-              My Developer Timeline
-            </h3>
             
           </motion.div>
         </div>
